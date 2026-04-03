@@ -31,12 +31,17 @@ cd random-terminal-chaos
 
 ---
 
+## Screenshot :
+
+<img width="1097" height="615" alt="image" src="https://github.com/user-attachments/assets/3f3c92a6-11ac-44a9-8e29-e62b44acde0c" />
+
+
 ## Usage
 
 Run the script:
 
 ```bash
-node color_grid.js
+node random.js
 ```
 
 ---
